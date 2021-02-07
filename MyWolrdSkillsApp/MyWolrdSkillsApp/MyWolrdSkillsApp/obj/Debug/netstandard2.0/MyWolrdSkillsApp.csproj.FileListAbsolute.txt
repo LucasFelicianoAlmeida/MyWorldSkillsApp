@@ -1,0 +1,15 @@
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\bin\Debug\netstandard2.0\MyWolrdSkillsApp.deps.json
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\bin\Debug\netstandard2.0\MyWolrdSkillsApp.dll
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\bin\Debug\netstandard2.0\ref\MyWolrdSkillsApp.dll
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\bin\Debug\netstandard2.0\MyWolrdSkillsApp.pdb
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\MyWolrdSkillsApp.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\Views\PrincipalPage.xaml.g.cs
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\MyWolrdSkillsApp.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\MyWolrdSkillsApp.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\MyWolrdSkillsApp.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\MyWolrdSkillsApp.dll
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\ref\MyWolrdSkillsApp.dll
+C:\Users\Marcelo\source\repos\MyWolrdSkillsApp\MyWolrdSkillsApp\MyWolrdSkillsApp\obj\Debug\netstandard2.0\MyWolrdSkillsApp.pdb
